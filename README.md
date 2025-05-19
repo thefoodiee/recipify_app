@@ -34,9 +34,6 @@ A modern Android recipe application built with **Jetpack Compose**, leveraging *
 ---
 ## 🔧 Setup & Installation
 
-Get the latest release [here](https://github.com/thefoodiee/recipify_app/releases)
-
-## Manual Installation
 
 1. **Clone the repository:**
    ```bash
