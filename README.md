@@ -33,7 +33,9 @@ A modern Android recipe application built with **Jetpack Compose**, leveraging *
 
 ---
 ## 🔧 Setup & Installation
+⚠️ This app requires JDK 11 or above. I used JDK 17 on KDE Neon (Ubuntu LTS)
 
+0. **Get JDK 11 or newer (17 recommended) and configure Android Studio to use it.**
 
 1. **Clone the repository:**
    ```bash
@@ -42,10 +44,8 @@ A modern Android recipe application built with **Jetpack Compose**, leveraging *
 2. **Set up Firebase:**
 
 - Create a Firebase project.
-
-- Add your google-services.json to the `app/` directory.
-
 - Enable Firebase Authentication (Email/Password Sign-In).
+- Add your google-services.json to the `app/` directory.
 
 3. **Get Spoonacular API Key**
 - Get Spoonacular API Key from [here](https://spoonacular.com/food-api) and add it to `app/keys.properties`
